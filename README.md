@@ -1,0 +1,2 @@
+# DiCE
+ Aplikasi dadu sederhana
